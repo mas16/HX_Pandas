@@ -6,7 +6,9 @@ NMR is a powerful technique for obtaining quantitative information about the str
 
 This script will read raw, uncleaned nmrPipe output ```.tab``` (flat file) and extract relevant data for fitting serially collected HX data. Number of data points used in the fitting can be arbitrary.
 
-Data are fit to standard three parameter exponential decay of form:
+Data are fit to standard three parameter exponential decay of form:   
+
+$x + 1 = 3$
 
 $$I(t) = I(0) * e^{(-Rt)} + b$$
 
