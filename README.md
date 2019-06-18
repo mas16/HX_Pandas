@@ -8,7 +8,7 @@ This script will read raw, uncleaned nmrPipe output ```.tab``` (flat file) and e
 
 Data are fit to standard three parameter exponential decay of form:
 
-$ I(t) = I(0) * e^{(-Rt)} + b $
+$$I(t) = I(0) * e^{(-Rt)} + b$$
 
 where I is signal intensity, R is the decay rate, and b is the offset.
 
