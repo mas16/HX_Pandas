@@ -17,7 +17,7 @@ Fitting is done via non linear least squares optimization using scipy.
 Generators are used to minimize the amount of data stored in memory.
 
 ## Libraries
-Please install the following libraries/packages before running
+Please install the following libraries/packages before running   
 ```numpy```    
 ```matplotlib```   
 ```scipy```   
